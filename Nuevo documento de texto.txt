@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NADORI CHOPE</title>
+<style>
+body{margin:0;font-family:Arial;background:#f5f5f5;direction:rtl;}
+header{background:black;color:white;text-align:center;padding:15px;}
+.container{padding:20px;}
+.product{background:white;max-width:400px;margin:auto;padding:15px;border-radius:10px;}
+.product img{width:100%;border-radius:10px;}
+button{width:100%;padding:15px;background:black;color:white;border:none;font-size:18px;margin-top:15px;}
+footer{text-align:center;padding:10px;background:#222;color:white;margin-top:20px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>NADORI CHOPE</h1>
+<p>RIFI SOUL NEVER BOWS</p>
+</header>
+
+<div class="container">
+<div class="product">
+<img src="rifi-tshirt.png">
+<p><strong>RIFI T-Shirt</strong></p>
+<button onclick="window.location.href='https://wa.me/34613365505'">
+اطلب الآن عبر واتساب
+</button>
+</div>
+</div>
+
+<footer>© 2025 NADORI CHOPE</footer>
+
+</body>
+</html>
